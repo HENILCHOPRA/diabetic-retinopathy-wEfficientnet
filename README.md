@@ -8,9 +8,9 @@
 
   <li>Goal of this Project?</li>
   <ul>
-    <li>Here I have used kaggle dataset of high resoultion images of human eye retina with annotated severity level.</li>
+    <li>Here I have used the Kaggle dataset of high-resolution images of the human eye retina with the annotated severity levels.</li>
     <li>I used a vanilla Efficient model (EfficientnetB3) model on resized 947 sample images of size (256,256,3).</li>
-    <li>Post that I augmented the model with attention layer to focus on specific area on learning feature from that region.</li>
+    <li>Post that I augmented the model with attention layers to focus on specific areas on learning features from that region.</li>
    </ul>
    <li>Credits</li>
    <ul>
@@ -20,7 +20,8 @@
    </ul>
 </ul>
 
-<>
+
+
 # Samples
 <img src="samples.png" alt="Samples">
 
