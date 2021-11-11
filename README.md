@@ -1,4 +1,4 @@
-# diabteic-retinopathy /w Efficientnet
+# diabetic-retinopathy /w Efficientnet
 <img src="Diabetic-Retinopathy_SS-Graphic-1080x500.jpg" alt="DR Graphics">
 
 # Overview
